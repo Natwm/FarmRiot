@@ -96,5 +96,5 @@ fmod_editor.log
 /*FMOD/.unsaved
 /*FMOD/.cache
 /*FMOD/*.restore
-Content/StarterContent/Textures/T_Fire_Tiled_D.uasset
-Plugins/FMODStudio/Docs/api-reference.html
+Content/StarterContent/*
+Plugins/FMODStudio/Docs/*

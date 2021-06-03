@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2d4b5cfe-ec44-4e9c-ba5c-9f439f85a18b}">
+		<property name="assetPath">
+			<value>Animals, Farm, Bird, Chickens SND11274.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.299291666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc373d8a-42bc-4ebc-98d2-6ef29ca44692}</destination>
+		</relationship>
+	</object>
+</objects>
