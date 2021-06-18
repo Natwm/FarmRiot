@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{a1ef955e-6146-440c-a3f1-b7a662c3b696}">
+		<property name="name">
+			<value>Jour de  ponte</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7dff0ff6-e87e-4290-885d-bfcc2f09480e}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{897c53b9-d0de-4bb5-a291-53dd8ddc7c68}">
+		<property name="name">
+			<value>Validation zone action</value>
+		</property>
+		<relationship name="folder">
+			<destination>{03976321-e811-457f-b0b1-64e132bbd9da}</destination>
+		</relationship>
+	</object>
+</objects>
