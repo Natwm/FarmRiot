@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{85967972-c493-4db1-b605-666e5ca574bf}">
+		<property name="name">
+			<value>Pied voltige</value>
+		</property>
+		<relationship name="folder">
+			<destination>{788abc57-82a6-4451-b075-e7002a9638c5}</destination>
+		</relationship>
+	</object>
+</objects>
