@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{be809d02-4c8f-4867-8769-ace8c0a987a1}">
+		<property name="name">
+			<value>Turkey_Selection</value>
+		</property>
+		<relationship name="folder">
+			<destination>{19d86d88-6c4d-4ee8-a7f8-8ae83f9aee28}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{67ba76ff-8f8e-4f51-a3e7-3cba3e58ec7d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{67ba76ff-8f8e-4f51-a3e7-3cba3e58ec7d}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.8399999737739563</value>
+		</property>
+	</object>
+</objects>

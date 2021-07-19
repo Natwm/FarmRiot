@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{24688afb-e602-48e4-aa4f-2b7fddc88506}">
+		<property name="name">
+			<value>Player_Turn</value>
+		</property>
+		<relationship name="folder">
+			<destination>{19d86d88-6c4d-4ee8-a7f8-8ae83f9aee28}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e809d312-9ea6-47b0-8417-a76a0bc4252a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e809d312-9ea6-47b0-8417-a76a0bc4252a}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.85999995470046997</value>
+		</property>
+	</object>
+</objects>

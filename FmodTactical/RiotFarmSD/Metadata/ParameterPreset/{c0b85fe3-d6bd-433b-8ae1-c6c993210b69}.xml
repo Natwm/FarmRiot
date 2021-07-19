@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{c0b85fe3-d6bd-433b-8ae1-c6c993210b69}">
+		<property name="name">
+			<value>Zoom</value>
+		</property>
+		<relationship name="folder">
+			<destination>{19d86d88-6c4d-4ee8-a7f8-8ae83f9aee28}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f14ed19e-bccd-4d87-bce8-b1f8eea5e242}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f14ed19e-bccd-4d87-bce8-b1f8eea5e242}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.79999995231628418</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{72c075bd-53f7-4b49-ad72-f8808120ba03}">
+		<property name="name">
+			<value>Rabbit_Selection</value>
+		</property>
+		<relationship name="folder">
+			<destination>{19d86d88-6c4d-4ee8-a7f8-8ae83f9aee28}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3daaa8de-02a5-4678-9cbe-cd667c7b0291}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3daaa8de-02a5-4678-9cbe-cd667c7b0291}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.82999998331069946</value>
+		</property>
+	</object>
+</objects>

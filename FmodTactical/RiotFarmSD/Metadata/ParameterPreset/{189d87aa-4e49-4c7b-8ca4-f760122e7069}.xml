@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{189d87aa-4e49-4c7b-8ca4-f760122e7069}">
+		<property name="name">
+			<value>Cow_Selection</value>
+		</property>
+		<relationship name="folder">
+			<destination>{19d86d88-6c4d-4ee8-a7f8-8ae83f9aee28}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{0562f413-574b-40da-a908-f0750387a4d9}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{0562f413-574b-40da-a908-f0750387a4d9}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.81999999284744263</value>
+		</property>
+	</object>
+</objects>

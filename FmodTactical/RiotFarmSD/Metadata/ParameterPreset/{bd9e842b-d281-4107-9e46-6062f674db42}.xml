@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{bd9e842b-d281-4107-9e46-6062f674db42}">
+		<property name="name">
+			<value>Numbers_Of_Animals </value>
+		</property>
+		<relationship name="folder">
+			<destination>{19d86d88-6c4d-4ee8-a7f8-8ae83f9aee28}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5deae25f-58c7-412c-b83c-d9d7bbe34b72}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5deae25f-58c7-412c-b83c-d9d7bbe34b72}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.79999995231628418</value>
+		</property>
+	</object>
+</objects>
