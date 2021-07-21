@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{96f7136a-4302-4f33-8c6f-2f5bf8927635}">
+		<property name="assetPath">
+			<value>Spawn_Buisson_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>42.302666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8df76800-1c12-469f-98ee-3de066b3ce97}</destination>
+		</relationship>
+	</object>
+</objects>

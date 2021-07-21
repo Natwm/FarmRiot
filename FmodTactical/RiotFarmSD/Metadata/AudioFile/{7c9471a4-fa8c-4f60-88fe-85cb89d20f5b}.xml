@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{7c9471a4-fa8c-4f60-88fe-85cb89d20f5b}">
+		<property name="assetPath">
+			<value>footsteps_Layer_Herbe_4.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8df76800-1c12-469f-98ee-3de066b3ce97}</destination>
+		</relationship>
+	</object>
+</objects>
